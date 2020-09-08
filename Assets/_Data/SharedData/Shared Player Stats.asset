@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97684bada997b36489da81d9473352df, type: 3}
+  m_Name: Shared Player Stats
+  m_EditorClassIdentifier: 
+  _defaultBlueprint: {fileID: 11400000, guid: b97fa1e90b9c7fb48a9e0dd44d920e1f, type: 2}
+  _humanoidName: Player
+  _hp: 100
+  _damage: 40
+  _defense: 10
